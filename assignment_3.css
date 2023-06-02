@@ -1,0 +1,21 @@
+.card{
+    height: 813px;
+    width: 320px;
+    border: 2px solid #000000;
+    position: absolute;
+}
+img{
+    height: 300px;
+    width: 300;
+    margin-top: 5px;
+}
+p{
+    text-align: center;
+}
+table{
+   border-spacing: 8px;
+}
+.first_column{
+    color: #0368c0;
+    font-weight: bold;
+}

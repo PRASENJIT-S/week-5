@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+}
+section{
+    position: relative;
+    height: 97vh;
+    width: 98vw;
+    border: 2px solid #000000;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+}
+.card{
+    height: 400px;
+    width: 300px;
+    background-color: #eb0808;
+    position: absolute;
+}
+.card_1{
+    background-color: #0918ef;
+    margin: 5px;
+    z-index: 1;
+}
+.card_2{
+    background-color: #efef09;
+    margin: 80px 30px;
+    z-index: 2;
+}
+.card_3{
+    background-color: #09ef5d;
+    margin: 160px 60px;
+    z-index: 3;
+}
+p{
+    position: relative;
+    left: 38%;
+    font-weight: bold;
+    font-size: 18px;
+}
+.pic{
+    position: relative;
+    height: 250px;
+    width: 200px;
+    top: 11%;
+    left: 16%;
+    background-color: #000000;
+}
+.first{
+    background-image: url(https://freepngimg.com/thumb/pokemon/20048-2-pikachu-hd-thumb.png);
+    background-repeat: no-repeat;
+}
+.second{
+    background-image: url(https://archives.bulbagarden.net/media/upload/thumb/0/0d/0148Dragonair.png/250px-0148Dragonair.png);
+    background-repeat: no-repeat;
+}
+.third{
+    background-image: url(https://freepngimg.com/thumb/pokemon/37543-2-pokemon-picture-thumb.png);
+    background-repeat: no-repeat;
+}
+.card_1:hover{
+    z-index: 4;
+}

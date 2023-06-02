@@ -1,0 +1,38 @@
+body{
+    background-color: #15151b;
+}
+img{
+    float: right;
+    margin-top: 35px;
+}
+.full{
+    position: absolute;
+    height: 90vh;
+    margin: 40px;
+    margin-left: 10px;
+}
+.total{
+    margin: 10px ;
+    position: relative;
+    top: 16%;
+    width: 50%;
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color:#ffffff;
+}
+p{
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffffff;
+}
+input{
+    background: #4e83d2;
+    color: #ffffff;
+    padding: 7px;
+    border-radius: 5px;
+    font-weight: bold;
+    border-width: 0px;
+}

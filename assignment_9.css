@@ -1,0 +1,24 @@
+body{
+    border: 3px solid #000000;
+}
+.total{
+    width: 20%;
+    margin: 5px;
+    display: block;
+}
+.heading{
+    padding: 5px 10px;
+    background-color: #f74646;
+}
+.inner{
+    max-height: 30px;
+    overflow-y: scroll;
+    opacity: 0;
+}
+.line{
+    padding: 7px;
+}
+.inner:hover{
+    max-height: 150px;
+    opacity: 1;
+}

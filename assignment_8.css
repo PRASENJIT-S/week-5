@@ -1,0 +1,43 @@
+input{
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+.form{
+    background-color: #fff;
+    width: 600px;
+    border: 1px solid #000000;
+    padding: 15px;
+    border-radius: 5px;
+    left: 250px;
+    position: fixed;
+    top: 1%;
+    left: 30%;
+}
+.register_heading{
+    text-align: center;
+    border-bottom: 1px solid #00000049;
+    padding-bottom: 20px;
+}
+.name{
+    width: 100%;
+    padding: 1px 0px;
+}
+.second_line{
+    width: 49%;
+}
+.mail_lable{
+    margin-right: 262px;
+}
+.messages{
+    width: 100%;
+    padding: 50px 0px;
+}
+.button{
+    background-color: #3a20ff;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.main{
+    opacity: 0.6;
+}
